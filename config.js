@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94740804536', 'Dinuwa Official²⁰²³', true],
-  ['94740804536', 'Dinuwa Official²⁰²³', true], 
+  ['919506756846', 'Misa Amane²⁰²³', true],
+  ['912269719357', 'Sadick ji²⁰²³', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['94740804536','94740804536'] 
-global.prems = ['94740804536', '94740804536', '94740804536']
+global.mods = ['919506756846','919506756846'] 
+global.prems = ['919506756846', '912269719357', '912269719357']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,20 +47,20 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = '🔥 𝘽𝘼𝙆𝘾𝙃𝙊𝘿 𝘽𝙊𝙏 🔥'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
-global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
-global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
+global.packname = ' 𝘽𝘼𝙆𝘾𝙃𝙊𝘿 𝘽𝙊𝙏 🤖 Created By 👻 𝙈𝙄𝙎𝘼 𝘼𝙈𝘼𝙉𝙀' 
+global.author = '👀' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/imsad1q' 
+global.dygp = 'https://chat.whatsapp.com/GNVDNrfbJy64ZlgI9swuh7'
+global.fgsc = 'https://github.com/UL7R0N' 
+global.fgyt = 'https://chat.whatsapp.com/GNVDNrfbJy64ZlgI9swuh7'
+global.fgpyp = 'https://chat.whatsapp.com/GNVDNrfbJy64ZlgI9swuh7'
+global.fglog = 'https://photos.app.goo.gl/ubu7QBryPm7DPqXA9' 
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
-global.rwait = '🇱🇰'
+global.wait = '*💝 _Waiting Bro Uploading by 𝘽𝘼𝙆𝘾𝙃𝙊𝘿 𝘽𝙊𝙏🥸..._*'
+global.rwait = '🇮🇳'
 global.dmoji = '🤣'
 global.done = '👍'
 global.error = '👎' 
