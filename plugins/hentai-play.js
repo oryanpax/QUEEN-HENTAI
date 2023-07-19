@@ -2,37 +2,37 @@
 import { youtubedl, youtubedlv2 } from '@bochilteam/scraper'
 import yts from 'yt-search'
 var handler = async (m, { conn, command, text, usedPrefix }) => {
-  if (!text) throw `Use example ${usedPrefix}${command} Queen Hentai`
+  if (!text) throw `Use example ${usedPrefix}${command} SADIQ BOT`
   await m.reply(wait)
   let search = await yts(text)
   let vid = search.videos[Math.floor(Math.random() * search.videos.length)]
   if (!search) throw 'Video Not Found, Try Another Title'
   let { title, thumbnail, timestamp, views, ago, url } = vid
-  let wm = '*💝 Queen Hentai 💝* WA BOT'
+  let wm = '*🔥 𝘽𝘼𝙆𝘾𝙃𝙊𝘿 𝘽𝙊𝙏 🔥*'
 
-  let captvid = `╭────  💝 Queen Hentai 💝 YT ─⬣
+  let captvid = `╭────  🔥 𝘽𝘼𝙆𝘾𝙃𝙊𝘿 𝘽𝙊𝙏 🔥 YT ─⬣
 💝 Title: ${title}
 💝 Duration: ${timestamp}
 💝 Views: ${views}
 💝 Upload: ${ago}
 💝 Link: ${url}
 ╰────────⬣`
-  conn.sendButton(m.chat, `╭──── 💝 Queen Hentai 💝 YT ─⬣
+  conn.sendButton(m.chat, `╭──── 🔥 𝘽𝘼𝙆𝘾𝙃𝙊𝘿 𝘽𝙊𝙏 🔥 YT ─⬣
 💝 Title: ${title}
 💝 Duration: ${timestamp}
 💝 Views: ${views}
 💝 Upload: ${ago}
 💝 Link: ${url}
-╰────────⬣`, author.trim(), await( await conn.getFile(thumbnail)).data, ['💝 VIDEO 💝', `${usedPrefix}ytmp4 ${url}`], false, { quoted: m, 'document': { 'url':'💝 Queen Hentai 💝' },
+╰────────⬣`, author.trim(), await( await conn.getFile(thumbnail)).data, ['💝 VIDEO 💝', `${usedPrefix}ytmp4 ${url}`], false, { quoted: m, 'document': { 'url':'🔥 𝘽𝘼𝙆𝘾𝙃𝙊𝘿 𝘽𝙊𝙏 🔥' },
 'mimetype': global.dpdf,
-'fileName': `💝 Queen Hentai 💝 ℙ𝕃𝔸𝕐𝔼ℝ`,
+'fileName': `🔥 𝘽𝘼𝙆𝘾𝙃𝙊𝘿 𝘽𝙊𝙏 🔥 ℙ𝕃𝔸𝕐𝔼ℝ`,
 'fileLength': 666666666666666,
 'pageCount': 666,contextInfo: { externalAdReply: { showAdAttribution: true,
 mediaType:  2,
 mediaUrl: `${url}`,
-title: `Song Is Uploading by 💝 Queen Hentai 💝...`,
+title: `Song Is Uploading by 🔥 𝘽𝘼𝙆𝘾𝙃𝙊𝘿 𝘽𝙊𝙏 🔥...`,
 body: wm,
-sourceUrl: '💝 Queen Hentai 💝', thumbnail: await ( await conn.getFile(thumbnail)).data
+sourceUrl: '🔥 𝘽𝘼𝙆𝘾𝙃𝙊𝘿 𝘽𝙊𝙏 🔥', thumbnail: await ( await conn.getFile(thumbnail)).data
   }
  } 
 })
