@@ -19,9 +19,9 @@ let img = await q.download?.()
 stiker = await mp4ToWebp(img, { pack: packname || global.packname, author: author || global.author })
 } else if (args[0] && isUrl(args[0])) {
 stiker = await createSticker(false, args[0], '', author, 20)
-} else throw `*Plzz Bza Mention To 💝 Queen Hentai 💝 For A Image OR Video OR Gif ${usedPrefix + command}* 🇱🇰`
+} else throw `*Plzz Bza Mention To 🔥 𝘽𝘼𝙆𝘾𝙃𝙊𝘿 𝘽𝙊𝙏 🔥 For A Image OR Video OR Gif ${usedPrefix + command}* 🌹`
 } catch {
-stiker = '*💝 Queen Hentai 💝*'	
+stiker = '*🔥 𝘽𝘼𝙆𝘾𝙃𝙊𝘿 𝘽𝙊𝙏 🔥*'	
 } finally {
 m.reply(stiker)}}
 handler.help = ['sfull']
