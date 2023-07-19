@@ -2,7 +2,7 @@
 import fg from 'api-dylux' 
 let handler = async (m, { conn, args, usedPrefix, command }) => {
 
-	if (!args[0]) throw `💝 Queen Hentai 💝, Enter a Google Drive link`
+	if (!args[0]) throw `🔥 𝘽𝘼𝙆𝘾𝙃𝙊𝘿 𝘽𝙊𝙏 🔥, Enter a Google Drive link`
 	m.react(rwait) 
 	try {
 	let res = await fg.GDriveDl(args[0])
