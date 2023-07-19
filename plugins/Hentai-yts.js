@@ -2,7 +2,7 @@
 import yts from 'yt-search'
 
 let handler = async (m, {conn, text }) => {
-  if (!text) throw '🇱🇰 Bza What do you want to search for on YT from Queen Hentai?'
+  if (!text) throw ' Bro What do you want to search for on YT from 𝘽𝘼𝙆𝘾𝙃𝙊𝘿 𝘽𝙊𝙏?'
   let results = await yts(text)
   let tes = results.all
   let teks = results.all.map(v => {
