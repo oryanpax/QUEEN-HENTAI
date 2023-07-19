@@ -7,8 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919506756846', 'Misa Amane²⁰²³', true],
-  ['912269719357', 'Sadick ji²⁰²³', true], 
+  ['919506756846', '𝐌𝐢𝐬𝐚 𝐀𝐦𝐚𝐧𝐞 🔥', true], 
   [''] 
 ] //Number of owners
 
@@ -49,8 +48,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = '🔥 𝘽𝘼𝙆𝘾𝙃𝙊𝘿 𝘽𝙊𝙏 🔥'
 global.premium = 'true'
-global.packname = ' 𝘽𝘼𝙆𝘾𝙃𝙊𝘿 𝘽𝙊𝙏 🤖 Created By 👻 𝙈𝙄𝙎𝘼 𝘼𝙈𝘼𝙉𝙀' 
-global.author = '👀' 
+global.packname = '𝐌𝐢𝐬𝐚 𝐀𝐦𝐚𝐧𝐞 𝘽𝙊𝙏 🤖' 
+global.author = ' ' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/imsad1q' 
 global.dygp = 'https://chat.whatsapp.com/GNVDNrfbJy64ZlgI9swuh7'
 global.fgsc = 'https://github.com/UL7R0N' 
@@ -59,12 +58,12 @@ global.fgpyp = 'https://chat.whatsapp.com/GNVDNrfbJy64ZlgI9swuh7'
 global.fglog = 'https://photos.app.goo.gl/ubu7QBryPm7DPqXA9' 
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 𝘽𝘼𝙆𝘾𝙃𝙊𝘿 𝘽𝙊𝙏🥸..._*'
-global.rwait = '🇮🇳'
+global.wait = '𝙈𝘼𝘿𝙀 𝙒𝙄𝙏𝙃 💗,  𝙐𝙎𝙀 𝙒𝙄𝙏𝙃 💖 ~ 𝙎𝘼𝘿𝙄𝙓                                              * _SENDING... PLEASE WAIT_*'
+global.rwait = '⚡'
 global.dmoji = '🤣'
-global.done = '👍'
+global.done = '💗'
 global.error = '👎' 
-global.xmoji = '🫶' 
+global.xmoji = '🤖 ' 
 
 global.multiplier = 69 
 global.maxwarn = '3' // máxima advertencias
